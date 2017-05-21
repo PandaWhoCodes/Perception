@@ -1,0 +1,11 @@
+apple
+orange
+mango
+microsoft
+cisco
+google
+amazon
+facebook
+Steve Jobs
+Bill Gates
+Sergey Bin
